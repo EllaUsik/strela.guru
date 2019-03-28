@@ -1,0 +1,2 @@
+# strela.guru
+test project
